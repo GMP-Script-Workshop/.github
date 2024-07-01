@@ -1,1 +1,2 @@
 Script Workshop is a fun endevaour of Damian's adventures with scripting in Squirrel and Lua, for both Gothic 2 Online and Gothic Multiplayer respectively.
+This one though serves more "archival" purpose, by saving old scripts and files.
